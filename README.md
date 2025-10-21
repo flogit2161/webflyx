@@ -1,3 +1,3 @@
-Boot.dev Course number 4 - Build a Bookbot in Python 
+Boot.dev Course number 3 - Learn Git 
 
 Made for learning purposes
